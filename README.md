@@ -1,4 +1,4 @@
-# NGS Data Analysis- final projecy
+# NGS Data Analysis- final project
 ## author: Mateusz Janusz
 
 Folders and files description:
